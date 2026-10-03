@@ -1,0 +1,1 @@
+# amharic_clinical_lexicon
